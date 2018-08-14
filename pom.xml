@@ -60,11 +60,6 @@
 
 	<!-- Mule Dependencies -->
 	<dependencies>
-		<dependency>
-			<groupId>com.mulesoft.training</groupId>
-			<artifactId>maven-proj1dao</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		<!-- Xml configuration -->
 		<dependency>
 			<groupId>com.mulesoft.muleesb</groupId>
